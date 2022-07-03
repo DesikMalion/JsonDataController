@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CallJSONFile",
+"dataUrl": "d075c2d6223ea8d8d20b92636529d857.unityweb",
+"wasmCodeUrl": "6eb73b35da63d10c5c2454ea1934e874.unityweb",
+"wasmFrameworkUrl": "b425127ddcb0fa843984529550fcbcf9.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}

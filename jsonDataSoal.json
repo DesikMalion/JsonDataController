@@ -1,0 +1,112 @@
+[
+  {
+    "ID": 1,
+    "type": "A",
+    "Questions": "Tes Question 1?",
+    "answer_1": "A blabla",
+    "answer_2": "B blabla",
+    "answer_3": "C blabla",
+    "answer_4": "D blabla",
+    "jawaban": "A blabla"
+  },
+  {
+    "ID": 2,
+    "type": "A",
+    "Questions": "Tes Question 2?",
+    "answer_1": "A",
+    "answer_2": "B",
+    "answer_3": "C",
+    "answer_4": "D",
+    "jawaban": "D"
+  },
+  {
+    "ID": 3,
+    "type": "A",
+    "Questions": "Tes Question 3?",
+    "answer_1": "blabla A",
+    "answer_2": "blabla B",
+    "answer_3": "blabla C",
+    "answer_4": "blabla D",
+    "jawaban": "blabla B"
+  },
+  {
+    "ID": 4,
+    "type": "A",
+    "Questions": "Tes Question 4?",
+    "answer_1": "Amerika",
+    "answer_2": "Srilanka",
+    "answer_3": "Kamboja",
+    "answer_4": "Indonesia",
+    "jawaban": "Kamboja"
+  },
+  {
+    "ID": 5,
+    "type": "A",
+    "Questions": "Tes Question 5?",
+    "answer_1": "Layar",
+    "answer_2": "Batu",
+    "answer_3": "Air",
+    "answer_4": "Masyarakat",
+    "jawaban": "Masyarakat"
+  },
+  {
+    "ID": 6,
+    "type": "B",
+    "img_questA_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questA.png",
+    "img_questB_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questB.png",
+    "img_questC_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questC.png",
+    "img_questD_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questD.png",
+    "img_optionA_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionA.png",
+    "img_optionB_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionB.png",
+    "img_optionC_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionC.png",
+    "img_optionD_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionD.png"
+  },
+  {
+    "ID": 7,
+    "type": "B",
+    "img_questA_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questB.png",
+    "img_questB_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questC.png",
+    "img_questC_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questA.png",
+    "img_questD_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questD.png",
+    "img_optionA_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionB.png",
+    "img_optionB_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionC.png",
+    "img_optionC_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionA.png",
+    "img_optionD_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionD.png"
+  },
+  {
+    "ID": 8,
+    "type": "B",
+    "img_questA_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questD.png",
+    "img_questB_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questB.png",
+    "img_questC_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questC.png",
+    "img_questD_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questA.png",
+    "img_optionA_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionD.png",
+    "img_optionB_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionB.png",
+    "img_optionC_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionC.png",
+    "img_optionD_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionA.png"
+  },
+  {
+    "ID": 9,
+    "type": "B",
+    "img_questA_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questA.png",
+    "img_questB_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questD.png",
+    "img_questC_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questC.png",
+    "img_questD_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questB.png",
+    "img_optionA_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionA.png",
+    "img_optionB_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionD.png",
+    "img_optionC_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionC.png",
+    "img_optionD_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionB.png"
+  },
+  {
+    "ID": 10,
+    "type": "B",
+    "img_questA_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questC.png",
+    "img_questB_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questA.png",
+    "img_questC_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questD.png",
+    "img_questD_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/questB.png",
+    "img_optionA_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionC.png",
+    "img_optionB_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionA.png",
+    "img_optionC_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionD.png",
+    "img_optionD_url": "https://github.com/DesikMalion/JsonDataController/blob/main/images/optionB.png"
+  }
+]
